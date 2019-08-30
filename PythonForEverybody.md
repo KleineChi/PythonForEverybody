@@ -30,7 +30,7 @@
 </ul>
 <h3 id="stakeholders">Stakeholders</h3>
 <ul>
-<li>Myself - gaining knowledge to help me COP1500</li>
+<li>Myself - gaining knowledge to help me in COP1500</li>
 <li>Professor - for grade</li>
 <li>Perspective Employers - artifact will be added to my student portfolio which could help with getting a job</li>
 </ul>
