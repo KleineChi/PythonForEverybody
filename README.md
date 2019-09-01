@@ -1,7 +1,7 @@
 # Python Bootcamp on Udemy
 <h3 id="goals">Goals</h3>
 <ul>
-<li>Finish the Complete Python Bootcamp: Go from zero to hero in Python 3 on Udemy.</li>
+<li>Finish the Complete Python Bootcamp: Go from zero to hero in Python 3, on Udemy.</li>
 </ul>
 <h3 id="boundaries--scope">Boundaries / Scope</h3>
 <ul>
