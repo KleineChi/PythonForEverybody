@@ -66,12 +66,16 @@ Section Thirteen: Python Generators (3 hours)</li>
 <ul>
 <li>Learned about if / else statements. As well as elif statements. Also watched videos and did exercises with while loops and for loops.</li>
 </ul>
-<p>**Week three log: (2hrs)</p>
+<p><strong>Week three log: (3hrs)</strong></p>
 <ul>
-<li>List item</li>
+<li>Watched the videos and took notes  on methods and functions. Also did the exercises and started working incorporating new knowledge into my integration project.</li>
 </ul>
-<p>**</p>
-<p>**</p>
+<p><strong>Week four log: (2.5hrs)</strong></p>
+<ul>
+<li>Worked on milestone project for the course. Made a “Guess the Number” game.</li>
+</ul>
+<p><strong>Week five log: (2hrs)</strong></p>
+<p>Introduction to object oriented programming. Learned about classes and how to created attributes for the object.</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
