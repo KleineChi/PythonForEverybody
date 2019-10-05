@@ -58,7 +58,7 @@ Section Thirteen: Python Generators (3 hours)</li>
 <li>Completion of course, and work on independent program<br>
 (2 hours)</li>
 </ul>
-<p>**<strong><strong>Week one log: (3.5hrs)</strong></strong></p>
+<p><strong><strong>Week one log: (3.5hrs)</strong></strong></p>
 <ul>
 <li>Watched the course overview and downloaded the notebooks and course materials. Started out with an introduction to data types. Went over arithmetic operators. Learned about variable assignments. Watched video on strings and string indexing and string slicing. Also learned about Tuples and how they are immutable. Went over Boolean operators. And did the exercises in the first three sections.</li>
 </ul>
