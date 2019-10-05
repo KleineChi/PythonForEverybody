@@ -36,7 +36,7 @@
 </ul>
 <h3 id="timeline">Timeline</h3>
 <p>Week:</p>
-<ol>
+<ul>
 <li>Section One: Course Overview<br>
 Section Two: Python Setup<br>
 Section Three: Python Object and Data Structure Basics<br>
@@ -57,7 +57,21 @@ Section Thirteen: Python Generators (3 hours)</li>
 <li>Section  Seventeen: Introduction to GUIs (2 hours)</li>
 <li>Completion of course, and work on independent program<br>
 (2 hours)</li>
-</ol>
+</ul>
+<p>**<strong><strong>Week one log: (3.5hrs)</strong></strong></p>
+<ul>
+<li>Watched the course overview and downloaded the notebooks and course materials. Started out with an introduction to data types. Went over arithmetic operators. Learned about variable assignments. Watched video on strings and string indexing and string slicing. Also learned about Tuples and how they are immutable. Went over Boolean operators. And did the exercises in the first three sections.</li>
+</ul>
+<p><strong>Week two log: (2.5hrs)</strong></p>
+<ul>
+<li>Learned about if / else statements. As well as elif statements. Also watched videos and did exercises with while loops and for loops.</li>
+</ul>
+<p>**Week three log: (2hrs)</p>
+<ul>
+<li>List item</li>
+</ul>
+<p>**</p>
+<p>**</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
