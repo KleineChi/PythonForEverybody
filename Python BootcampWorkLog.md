@@ -75,7 +75,13 @@ Section Thirteen: Python Generators (3 hours)</li>
 <li>Worked on milestone project for the course. Made a “Guess the Number” game.</li>
 </ul>
 <p><strong>Week five log: (2hrs)</strong></p>
-<p>Introduction to object oriented programming. Learned about classes and how to created attributes for the object.</p>
+<ul>
+<li>Introduction to object oriented programming. Learned about classes and how to created attributes for the object.</li>
+</ul>
+<p><strong>Week six log:(3hrs)</strong></p>
+<ul>
+<li>Learned about modules and packages. Downloaded Pip and learned about different libraries like Pypi. As well as debugging, errors and exceptions handling. Watched a video on Pylint.</li>
+</ul>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
