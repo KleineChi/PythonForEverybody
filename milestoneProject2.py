@@ -1,3 +1,4 @@
+# Took multiple attempts and had to review solution code to complete project.
 # IMPORT STATEMENTS AND VARIABLE DECLARATIONS:
 
 import random
