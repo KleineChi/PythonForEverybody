@@ -110,4 +110,24 @@ Section Thirteen: Python Generators (3 hours)</li>
 <ul>
 <li>Started Python Objects and Data Structures</li>
 </ul>
+<p><strong>Week Tweleve log: (2.5hrs)</strong></p>
+<ul>
+<li>Finished Python Objects and Data Structures section.</li>
+<li>Watched the introduction to GUIs.</li>
+<li>Introduction to Widgets and what they can do.</li>
+</ul>
+<p><strong>Week Thirteen log:(3hrs)</strong></p>
+<ul>
+<li>
+<p>Started organizing notes from this course into a collection I will be able to use for reference in future projects.</p>
+</li>
+<li>
+<p>Worked some of the knowledge obtained in this course into my intergration project.</p>
+</li>
+</ul>
+<blockquote>
+<p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
+</blockquote>
+
+
 
